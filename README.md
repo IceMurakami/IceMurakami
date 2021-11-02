@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<h1>Arthur Murakami<h1>
+<h1>Arthur Murakami<h1>![alt espada jedi](https://icon-icons.com/pt/download/76944/ICO/512/)
 
+  
+  
 
 <!--
 **IceMurakami/IceMurakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
